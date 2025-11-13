@@ -46,7 +46,7 @@ Limitations:
 
 🚀 Proposed System
 
-The proposed system uses **Deep Learning** (CNN, RNN) to analyze data like accident details, weather, and traffic conditions.
+The proposed system uses Deep Learning (CNN, RNN) to analyze data like accident details, weather, and traffic conditions.
 
 Key Features:
 ✅ Predicts accident severity accurately.
